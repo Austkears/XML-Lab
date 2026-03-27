@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <NationalParks
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="https://austkears.github.io/XML-Lab/NationalParks.xsd">
+   xmlns="https://austkears.github.io/XML-Lab/" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:schemaLocation="https://austkears.github.io/XML-Lab NationalPark.xsd">
 	<NationalPark Rating="4.5">
 		<Name>YellowStone</Name>
 		<Address NearestAirport ="Yellowstone Airport">
