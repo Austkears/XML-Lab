@@ -14,7 +14,7 @@
 		<Phone>307-344-7381</Phone>
 	</NationalPark>
 	<NationalPark>
-		<name>Arches</Name>
+		<Name>Arches</Name>
 		<Address NearestAirport ="Canyonlands Field Airport">
 			<Number>375</Number>
 			<Street>W. Arcadia Lane</Street>
