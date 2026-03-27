@@ -29,6 +29,7 @@
 			<state>South Dakota</state>
 			<zip>57750</zip>
 			<Phone>605-433-5361</Phone>
+		</address>
 	</NationalPark>
 	<NationalPark>
 		<name>Grand Canyon</name>
@@ -112,7 +113,6 @@
 			<city>Petrified Forest</city>
 			<state>Arizona</state>
 			<zip>86028</zip>
-		</address>
 			<Phone>928-524-6228</Phone>
 	</NationalPark>
 </nationalPark>
