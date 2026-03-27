@@ -1,124 +1,124 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<nationalParks
+<NationalParks
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="https://austkears.github.io/XML-Lab/NationalParks.xsd">
-	<NationalPark rating="4.5">
-		<name>YellowStone</name>
-		<address nearAirport ="Yellowstone Airport">
-			<number>710</number>
-			<street>Scott St W</street>
-			<city>Gardiner</city>
-			<state>Wyoming</state>
-			<zip>59030</zip>
-		</address>
+	<NationalPark Rating="4.5">
+		<Name>YellowStone</Name>
+		<Address NearestAirport ="Yellowstone Airport">
+			<Number>710</Number>
+			<Street>Scott St W</Street>
+			<City>Gardiner</City>
+			<State>Wyoming</State>
+			<Zip>59030</Zip>
+		</Address>
 		<Phone>307-344-7381</Phone>
 	</NationalPark>
 	<NationalPark>
-		<name>Arches</name>
-		<address nearAirport ="Canyonlands Field Airport">
-			<number>375</number>
-			<street>W. Arcadia Lane</street>
-			<city>Moab</city>
-			<state>Utah</state>
-			<zip>84532</zip>
-		</address>
+		<name>Arches</Name>
+		<Address NearestAirport ="Canyonlands Field Airport">
+			<Number>375</Number>
+			<Street>W. Arcadia Lane</Street>
+			<City>Moab</City>
+			<State>Utah</State>
+			<Zip>84532</Zip>
+		</Address>
 		<Phone>435-719-2299</Phone>
 		<Phone>877-444-6777</Phone>
 		<Phone>435-719-2100</Phone>
 	</NationalPark>
-	<NationalPark rating="3.4">
-		<name>Badlands</name>
-		<address nearAirport ="Rapid City Regional Airport">
-			<number>25216</number>
-			<street>Ben Reifel Road</street>
-			<city>Interior</city>
-			<state>South Dakota</state>
-			<zip>57750</zip>
-		</address>
+	<NationalPark Rating="3.4">
+		<Name>Badlands</Name>
+		<Address NearestAirport ="Rapid City Regional Airport">
+			<Number>25216</Number>
+			<Street>Ben Reifel Road</Street>
+			<City>Interior</City>
+			<State>South Dakota</State>
+			<Zip>57750</Zip>
+		</Address>
 			<Phone>605-433-5361</Phone>
 	</NationalPark>
 	<NationalPark>
-		<name>Grand Canyon</name>
-		<address nearAirport ="Canyonlands Field Airport">
-			<number>375</number>
-			<street>State Route 64</street>
-			<city>Grand Canyon</city>
-			<state>Arizona</state>
-			<zip>86023</zip>
-		</address>
+		<Name>Grand Canyon</Name>
+		<Address NearestAirport ="Canyonlands Field Airport">
+			<Number>375</Number>
+			<Street>State Route 64</Street>
+			<City>Grand Canyon</City>
+			<State>Arizona</State>
+			<Zip>86023</Zip>
+		</Address>
 			<Phone>928-638-7888</Phone>
 			<Phone>888-297-2757</Phone>
 			<Phone>303-297-2757</Phone>
 			<Phone>866-499-2574</Phone>
 			<Phone>800-843-8724</Phone>
 	</NationalPark>
-	<NationalPark rating="3">
-		<name>White Sands</name>
-		<address nearAirport ="El Paso International Airport">
-			<number>19955</number>
-			<street>Highway 70 West</street>
-			<city>Alamogordo</city>
-			<state>New Mexico</state>
-			<zip>88310</zip>
-		</address>
+	<NationalPark Rating="3">
+		<Name>White Sands</Name>
+		<Address NearestAirport ="El Paso International Airport">
+			<Number>19955</Number>
+			<Street>Highway 70 West</Street>
+			<City>Alamogordo</City>
+			<State>New Mexico</State>
+			<Zip>88310</Zip>
+		</Address>
 			<Phone>575-479-6124</Phone>
 	</NationalPark>
 	<NationalPark>
-		<name>Great Basin</name>
-		<address nearAirport ="Cedar City Regional Airport">
-			<number>100</number>
-			<street>Great Basin National Park</street>
-			<city>Baker</city>
-			<state>Nevada</state>
-			<zip>89311</zip>
-		</address>
+		<Name>Great Basin</Name>
+		<Address NearestAirport ="Cedar City Regional Airport">
+			<Number>100</Number>
+			<Street>Great Basin National Park</Street>
+			<City>Baker</City>
+			<State>Nevada</State>
+			<Zip>89311</Zip>
+		</Address>
 			<Phone>775-234-7331</Phone>
 			<Phone>775-234-7500</Phone>
 	</NationalPark>
 	<NationalPark>
-		<name>Kenai Fjords</name>
-		<address nearAirport ="Ted Stevens Anchorage International Airport">
-			<number>413</number>
-			<street>Washington Street</street>
-			<city>Seward</city>
-			<state>Alaska</state>
-			<zip>99664</zip>
-		</address>
+		<Name>Kenai Fjords</Name>
+		<Address NearestAirport ="Ted Stevens Anchorage International Airport">
+			<Number>413</Number>
+			<Street>Washington Street</Street>
+			<City>Seward</City>
+			<State>Alaska</State>
+			<Zip>99664</Zip>
+		</Address>
 			<Phone>907-318-2040</Phone>
 			<Phone>907-318-2088</Phone>
 	</NationalPark>
-	<NationalPark rating="4.9">
-		<name>Lassen Volcanic</name>
-		<address nearAirport ="">
-			<number>21820</number>
-			<street>Lassen National Park Highway</street>
-			<city>Mineral</city>
-			<state>California</state>
-			<zip>96063</zip>
-		</address>
+	<NationalPark Rating="4.9">
+		<Name>Lassen Volcanic</Name>
+		<Address NearestAirport ="Redding Municipal Airport">
+			<Number>21820</Number>
+			<Street>Lassen National Park Highway</Street>
+			<City>Mineral</City>
+			<State>California</State>
+			<Zip>96063</Zip>
+		</Address>
 			<Phone>530-595-6100</Phone>
 	</NationalPark>
-	<NationalPark rating="3.7">
-		<name>Mammoth Cave</name>
-		<address nearAirport ="Louisville International Airport">
-			<number>1</number>
-			<street>Visitor Center Parkway</street>
-			<city>Mammoth Cave</city>
-			<state>Kentucky</state>
-			<zip>42259</zip>
-		</address>
+	<NationalPark Rating="3.7">
+		<Name>Mammoth Cave</Name>
+		<Address NearestAirport ="Louisville International Airport">
+			<Number>1</Number>
+			<Street>Visitor Center Parkway</Street>
+			<City>Mammoth Cave</City>
+			<State>Kentucky</State>
+			<Zip>42259</Zip>
+		</Address>
 			<Phone>270-758-2180</Phone>
 			<Phone>270-597-2729</Phone>
 	</NationalPark>
 	<NationalPark>
-		<name>Petrified Forest</name>
-		<address nearAirport ="Phoenix Sky Harbor International Airport">
-			<number>1</number>
-			<street>Park Road</street>
-			<city>Petrified Forest</city>
-			<state>Arizona</state>
-			<zip>86028</zip>
-		</address>
+		<Name>Petrified Forest</Name>
+		<Address NearestAirport ="Phoenix Sky Harbor International Airport">
+			<Number>1</Number>
+			<Street>Park Road</Street>
+			<City>Petrified Forest</City>
+			<State>Arizona</State>
+			<Zip>86028</Zip>
+		</Address>
 			<Phone>928-524-6228</Phone>
 	</NationalPark>
-</nationalParks>
+</NationalParks>

@@ -1,26 +1,26 @@
 ﻿<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-	<xs:element name="nationalParks">
+	<xs:element name="NationalParks">
 		<xs:complexType>
 			<xs:sequence>
 				<xs:element name="NationalPark" minOccurs="0" maxOccurs="unbounded">
 					<xs:complexType>
 					<xs:sequence>
-						<xs:element name="name" type="xs:string"/>
-						<xs:element name="address">
+						<xs:element name="Name" type="xs:string"/>
+						<xs:element name="Address">
 							<xs:complexType>
 								<xs:sequence>
-									<xs:element name="number" type="xs:int"/>
-									<xs:element name="street" type="xs:string"/>
-									<xs:element name="city" type="xs:string"/>
-									<xs:element name="state" type="xs:string"/>
-									<xs:element name="zip" type="xs:int"/>
+									<xs:element name="Number" type="xs:int"/>
+									<xs:element name="Street" type="xs:string"/>
+									<xs:element name="City" type="xs:string"/>
+									<xs:element name="State" type="xs:string"/>
+									<xs:element name="Zip" type="xs:int"/>
 								</xs:sequence>
-								<xs:attribute name="nearAirport" type="xs:string" use="required"/>
+								<xs:attribute name="NearestAirport" type="xs:string" use="required"/>
 							</xs:complexType>
 						</xs:element>
 						<xs:element name="Phone" type="xs:string" maxOccurs="unbounded"/>
 					</xs:sequence>
-						<xs:attribute name="rating" type="xs:decimal" use ="optional"/>
+						<xs:attribute name="Rating" type="xs:decimal" use ="optional"/>
 					</xs:complexType>
 				</xs:element>
 			</xs:sequence>
